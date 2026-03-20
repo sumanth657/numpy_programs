@@ -1,4 +1,5 @@
 import numpy as np 
+#my name is sumanth
 # x=np.array([1,2,3,4,6,7])
 # print(x)
 # y=x.copy()
